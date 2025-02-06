@@ -1,6 +1,5 @@
 ##############################################################################
 # FILE: game_display.py
-# EXERCISE: Intro2cs ex11 2022-2023
 # WRITER: Idan Lieberman
 # DESCRIPTION:A class file to handel the display part of the game
 ##############################################################################
