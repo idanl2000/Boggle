@@ -15,11 +15,11 @@ word validation, and scoring.
 - utils.py: Provides utility functions used across the game, such as board processing and helper methods.
 
 #How to Run:
-1.Ensure you have Python installed (version 3.x recommended).
-2.Clone or download the repository.
-3.Run the game using the following command:
-4.python boggle.py
-5.use mouse to play the game
+1.Ensure you have Python installed (version 3.x recommended).\n
+2.Clone or download the repository.\n
+3.Run the game using the following command:\n
+4.python boggle.py\n
+5.use mouse to play the game\n
 
 #Game Rules:
 - Words must be formed by connecting adjacent letters (horizontally, vertically, or diagonally).
